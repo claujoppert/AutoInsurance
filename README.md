@@ -1,6 +1,6 @@
 # Auto Insurance Complaints Data Cleaning and Exploring (Python)
 1. Data Collection & Preparation:
-- Data Sources: Gather data from sources such as complaint records from government databases (like the National Association of Insurance Commissioners - NAIC), customer feedback surveys, or internal company complaints.
+- Data Sources: Kaggle.
 - Data Cleaning: Ensure the data is free from errors, duplicates, or inconsistencies. Address missing values, correct mislabeled data, and ensure the dataset is ready for analysis.
 - Variable Definition: Understand the key variables, which might include complaint type (claims, pricing, customer service), resolution status (resolved, unresolved), the time taken to resolve complaints, and customer demographics.
 
